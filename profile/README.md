@@ -69,6 +69,7 @@ The course structure is explicitly built upon the following foundational reviews
   - [*A Systematic Review of Serious Games in Medical Education: Quality of Evidence and Pedagogical Strategy*](https://pubmed.ncbi.nlm.nih.gov/29457760/), Gorbanev et al. (2018), *Medical Education Online*.
   - [*Game‐based learning in computer science education: a scoping literature review*](https://doi.org/10.1186/s40594-023-00447-2), Videnovik et al. (2023), *Int J STEM Educ*.
 
+<!-- 
 ## 8. Research opprotunities
 
 ### GBL Sustainability  
@@ -100,3 +101,5 @@ By integrating dynamic roles, self-sustainability, and low-carbon adaptability, 
 
 1. [Quantum Tic Tac Toe](https://en.wikipedia.org/wiki/Quantum_tic-tac-toe) with p5.quadrille.js
 2. [p5.tree dev](https://www.npmjs.com/package/p5.tree)
+
+-->
