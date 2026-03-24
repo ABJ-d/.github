@@ -54,7 +54,7 @@ The course structure is explicitly built upon the following foundational reviews
 *   **Iterative & Reflective:** The DBR approach mandates cycles of design, implementation, testing, and reflection.
 *   **Practice-Oriented:** Learning is demonstrated through the creation and critique of tangible artifacts at each stage.
 
-## 7. References
+## References
 
 - **p5.quadrille.js**
   - [p5.quadrille.js: p5.js quadrille library](https://doi.org/10.1016/j.softx.2024.101838)
@@ -68,6 +68,18 @@ The course structure is explicitly built upon the following foundational reviews
   - [*All Work and No Play Makes Jack a Dull Boy – A Systematic Review on Effectiveness of GBL in Dental Education*](https://files.eric.ed.gov/fulltext/EJ1465303.pdf), Mohandas & Mohapatra (2025), *Digital Education Review*.
   - [*A Systematic Review of Serious Games in Medical Education: Quality of Evidence and Pedagogical Strategy*](https://pubmed.ncbi.nlm.nih.gov/29457760/), Gorbanev et al. (2018), *Medical Education Online*.
   - [*Game‐based learning in computer science education: a scoping literature review*](https://doi.org/10.1186/s40594-023-00447-2), Videnovik et al. (2023), *Int J STEM Educ*.
+  
+### Search sites for d-GBL
+
+* [Google Scholar](https://scholar.google.com/) — Broad coverage (articles, theses, conferences, citations) helps quickly grasp the shape of the field.
+* [Scopus](https://www.scopus.com/) — Cleaner, structured view. Useful for identifying trends, key authors, and recurring themes in digital game-based learning.
+* [Web of Science](https://www.webofscience.com/) — Strong for citation tracing and high-level reviews. Highlights influential papers and field development.
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/) — Relevant when d-GBL connects to health, rehabilitation, motor learning, or cognition.
+* [arXiv](https://arxiv.org/) — Useful for recent technical work (AI, interaction, systems) prior to formal publication.
+- [Semantic Scholar](https://www.semanticscholar.org/) — Best for quick semantic exploration and related-paper discovery. Very useful for students who need a more guided, less overwhelming way into a new field like d-GBL. [libguides.mcmaster](https://libguides.mcmaster.ca/ai-tools-for-research/semantic-scholar)
+* [ResearchGate](https://www.researchgate.net/) — Secondary source for author-shared copies and networking. Helpful for access, but not a primary database.
+
+When searching, use terms like **digital game-based learning**, **serious games**, **exergames**, **game-based learning**, **gameful learning**, and **review**. Also include application areas (e.g., computer science, health, psychology, sustainability), since d-GBL often spans disciplines.
 
 <!-- 
 ## 8. Research opprotunities
