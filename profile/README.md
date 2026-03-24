@@ -76,7 +76,7 @@ The course structure is explicitly built upon the following foundational reviews
 * [Web of Science](https://www.webofscience.com/) — Strong for citation tracing and high-level reviews. Highlights influential papers and field development.
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) — Relevant when d-GBL connects to health, rehabilitation, motor learning, or cognition.
 * [arXiv](https://arxiv.org/) — Useful for recent technical work (AI, interaction, systems) prior to formal publication.
-- [Semantic Scholar](https://www.semanticscholar.org/) — Best for quick semantic exploration and related-paper discovery. Very useful for students who need a more guided, less overwhelming way into a new field like d-GBL. [libguides.mcmaster](https://libguides.mcmaster.ca/ai-tools-for-research/semantic-scholar)
+- [Semantic Scholar](https://www.semanticscholar.org/) — Best for quick semantic exploration and related-paper discovery. Very useful for students who need a more guided, less overwhelming way into a new field like d-GBL.
 * [ResearchGate](https://www.researchgate.net/) — Secondary source for author-shared copies and networking. Helpful for access, but not a primary database.
 
 When searching, use terms like **digital game-based learning**, **serious games**, **exergames**, **game-based learning**, **gameful learning**, and **review**. Also include application areas (e.g., computer science, health, psychology, sustainability), since d-GBL often spans disciplines.
